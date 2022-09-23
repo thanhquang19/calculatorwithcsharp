@@ -1,0 +1,10 @@
+C:\Users\HPInc\source\repos\Assignment04_ThanhQPhan\bin\Debug\Assignment04_ThanhQPhan.exe.config
+C:\Users\HPInc\source\repos\Assignment04_ThanhQPhan\bin\Debug\Assignment04_ThanhQPhan.exe
+C:\Users\HPInc\source\repos\Assignment04_ThanhQPhan\bin\Debug\Assignment04_ThanhQPhan.pdb
+C:\Users\HPInc\source\repos\Assignment04_ThanhQPhan\obj\Debug\Assignment04_ThanhQPhan.csproj.AssemblyReference.cache
+C:\Users\HPInc\source\repos\Assignment04_ThanhQPhan\obj\Debug\Assignment04_ThanhQPhan.Calculator.resources
+C:\Users\HPInc\source\repos\Assignment04_ThanhQPhan\obj\Debug\Assignment04_ThanhQPhan.Properties.Resources.resources
+C:\Users\HPInc\source\repos\Assignment04_ThanhQPhan\obj\Debug\Assignment04_ThanhQPhan.csproj.GenerateResource.cache
+C:\Users\HPInc\source\repos\Assignment04_ThanhQPhan\obj\Debug\Assignment04_ThanhQPhan.csproj.CoreCompileInputs.cache
+C:\Users\HPInc\source\repos\Assignment04_ThanhQPhan\obj\Debug\Assignment04_ThanhQPhan.exe
+C:\Users\HPInc\source\repos\Assignment04_ThanhQPhan\obj\Debug\Assignment04_ThanhQPhan.pdb
